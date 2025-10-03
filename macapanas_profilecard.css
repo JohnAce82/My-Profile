@@ -11,8 +11,6 @@ img {
     border-radius: 50%;
     object-fit: cover;
     display: block;
-    border-radius: 50%;
-    border-style: solid;
 }
     
 div {
@@ -26,3 +24,4 @@ div {
     text-align: center;
 
 }
+
